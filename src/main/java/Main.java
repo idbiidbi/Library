@@ -47,7 +47,6 @@ public class Main {
                     break;
                 case "4":
                     System.out.println("See you later, come again!");
-                    ;
                     break;
                 default:
                     break;
